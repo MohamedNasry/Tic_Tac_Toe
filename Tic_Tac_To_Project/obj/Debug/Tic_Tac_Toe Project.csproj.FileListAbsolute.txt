@@ -1,0 +1,12 @@
+D:\Project Beginning\Tic_Tac_To Project\obj\Debug\Tic_Tac_Toe Project.csproj.AssemblyReference.cache
+D:\Project Beginning\Tic_Tac_To Project\obj\Debug\Tic_Tac_To_Project.Form2.resources
+D:\Project Beginning\Tic_Tac_To Project\obj\Debug\Tic_Tac_To_Project.Properties.Resources.resources
+D:\Project Beginning\Tic_Tac_To Project\obj\Debug\Tic_Tac_Toe Project.csproj.GenerateResource.cache
+D:\Project Beginning\Tic_Tac_To Project\obj\Debug\Tic_Tac_Toe Project.csproj.CoreCompileInputs.cache
+D:\Project Beginning\Tic_Tac_To Project\obj\Debug\Tic_Tac_To Project.exe
+D:\Project Beginning\Tic_Tac_To Project\obj\Debug\Tic_Tac_To Project.pdb
+D:\Project Beginning\Tic_Tac_To Project\bin\Debug\Tic_Tac_To Project.exe.config
+D:\Project Beginning\Tic_Tac_To Project\bin\Debug\Tic_Tac_To Project.exe
+D:\Project Beginning\Tic_Tac_To Project\bin\Debug\Tic_Tac_To Project.pdb
+D:\Project Beginning\Tic_Tac_To Project\obj\Debug\Tic_Tac_To_Project.frmPlayeWithOnotherPerson.resources
+D:\Project Beginning\Tic_Tac_To Project\obj\Debug\Tic_Tac_To_Project.frmPlayeWithComputer.resources
